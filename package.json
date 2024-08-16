@@ -3,7 +3,7 @@
   "name": "tidal-controls",
   "title": "Tidal controls",
   "description": "Control your tidal install",
-  "icon": "command-icon.png",
+  "icon": "tidal-icon.png",
   "author": "zefanjajobse",
   "categories": [
     "Media"
